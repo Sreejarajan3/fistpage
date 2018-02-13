@@ -8,7 +8,7 @@
 </head>
 <body>
 <h2>Welcome</h2>
-Have a great day!!!
+Have a great day!!
 <form action="Myservlet" >
 <input type="submit" value="Click here">
 </form>
