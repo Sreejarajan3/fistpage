@@ -27,9 +27,10 @@ public class Myservlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("Served at: ").append(request.getContextPath());
+		
 		PrintWriter out = response.getWriter();
 		out.print("helloo");
+		out.print("How are u??");
 	}
 
 	/**
